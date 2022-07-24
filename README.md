@@ -1,4 +1,4 @@
-I am a bot and website coder who specializez in html,CSS and Js.
+I am a bot and website coder who specialisez in html,CSS and Js.
 
 ## Skills
 ### Languages
